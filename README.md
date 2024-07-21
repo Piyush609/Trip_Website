@@ -1,3 +1,1 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The React Base Website That demonstrate the use of react in the actual project..
